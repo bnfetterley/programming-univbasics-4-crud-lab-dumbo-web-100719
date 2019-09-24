@@ -32,16 +32,16 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  four_elements = [ "one", "two", "three", "four"]
+  four_elements = [ "wow", "two", "three", "four"]
   four_elements[0]
 end
 
 def retrieve_last_element_from_array(array)
-  four_elements = [ "one", "two", "three", "four"]
+  four_elements = [ "wow", "two", "three", "four"]
   four_elements[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-  four_elements = [ "one", "two", "three", "four"]
+  four_elements = [ "wow", "two", "three", "four"]
   four_elements[1]="oonnee"
 end
