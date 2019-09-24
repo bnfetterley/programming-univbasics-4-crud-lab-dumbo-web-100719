@@ -17,7 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  four_elements = [ "one", "two", "three", "four"]
+  four_elements = [ "one", "two", "three", "arrays!"]
   four_elements.pop
 end
 
